@@ -14,9 +14,9 @@ VIM
     ln -s ~/dotfiles/rc.vim ~/.vimrc
     ln -s ~/dotfiles/vim ~/.vim
 
-1. Install rope Python module::
+1. Install needed Python modules::
 
-    pip install rope
+    pip install rope pyflakes pep8
 
 1. Fetch vim-addons-manager submodule
 
